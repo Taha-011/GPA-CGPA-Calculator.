@@ -1,3 +1,6 @@
+/* This DSA project implements various sorting algorithms including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort.
+It provides a menu-driven interface for users to choose sorting methods and display results. */
+
 #include<iostream>
 #include<windows.h>
 using namespace std;
@@ -267,4 +270,5 @@ int main(){
 }
 
 	return 0;
+
 }
